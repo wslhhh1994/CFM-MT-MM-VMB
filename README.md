@@ -4,7 +4,7 @@ Official implementation of the paper:
 
 > **A Multi-Modal-Data-Driven Velocity Model Building Method with Auxiliary Seismic Images Based on Optimal Transport Conditional Flow Matching**
 > Shuliang Wu, and Jianhua Geng
-> *IEEE Transactions on Geoscience and Remote Sensing (TGRS)*
+
 
 ---
 
