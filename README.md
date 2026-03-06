@@ -18,7 +18,8 @@ We propose a data-driven, multi-task learning method for seismic velocity model 
 
 A key innovation is the **physics-informed consistency loss**, which explicitly couples the predicted velocity model and seismic image through the convolution model in the loss function — mirroring the relationship exploited by conventional methods such as FWI and RWI.
 
-![Method Diagram](media/image3.png)
+<img width="431" height="543" alt="image" src="https://github.com/user-attachments/assets/ed68f9f1-b90e-4e20-ae17-ac668c866d75" />
+
 
 **Key advantages over existing methods:**
 - Avoids spectral bias of standard CNNs/Transformers via generative flow matching
